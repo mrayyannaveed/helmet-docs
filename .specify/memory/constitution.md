@@ -1,55 +1,43 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+---
+Sync Impact Report
+---
+- **Version Change**: None -> 1.0.0
+- **Summary**: Initial constitution established for the "Smart Helmet Thesis" project.
+- **Added Sections**:
+  - Core Principles (Thesis Architecture & Format, Content & Scope, Academic Tone & Style, Compliance, Source Material Integrity, Tooling)
+  - Governance
+- **Removed Sections**:
+  - All generic placeholder sections.
+- **Templates Requiring Updates**:
+  - ✅ `.specify/templates/plan-template.md` (Checked)
+  - ✅ `.specify/templates/spec-template.md` (Checked)
+  - ✅ `.specify/templates/tasks-template.md` (Checked)
+- **Follow-up TODOs**: None
+-->
+# Smart Helmet Thesis Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Thesis Architecture & Format
+The final output must be a formal, 6-chapter thesis. The content must be generated in Markdown, compatible with Docusaurus for publication. Each chapter should target approximately 10 pages of content (roughly 3,000 words).
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Content & Scope
+The thesis content must be derived from the "Smart Helmet for Accident Detection and Rider Safety" project. It must integrate and elaborate on the project's Internet of Things (IoT), Artificial Intelligence (AI), and Computer Vision (CV) components. The primary source of detailed information is the `Smart-Helmet-for-Accident-Detection-and-Rider-Safety (1)_compressed.pdf` document.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Academic Tone & Style
+All written content must adhere to a strict academic, technical, and precise tone. Language should be formal and objective, suitable for a final year computer science project submission.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Compliance & Guidelines
+The thesis must strictly follow the formatting, citation, and submission guidelines provided by the DUET Department of Computer Science.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Source Material Integrity
+All technical details, methodologies, and results presented must be faithful to the source project. No data or functionality shall be invented; all content must be grounded in the provided reference material and project artifacts.
 
-### [PRINCIPLE_6_NAME]
-
-
-[PRINCIPLE__DESCRIPTION]
-
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
-
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+### VI. Tooling
+The project will be managed using SpeckitPlus for spec-driven development, and the final output will be structured for Docusaurus.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
+This Constitution supersedes all other practices. All project activities, from planning to writing, must verify compliance with these principles. Amendments require formal documentation and approval.
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
-
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-12-16 | **Last Amended**: 2025-12-16
