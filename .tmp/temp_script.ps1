@@ -1,0 +1,3 @@
+$desc = 'Core Requirement: Build a Docusaurus-based thesis site for the "Smart Helmet for Accident Detection and Rider Safety" project. Specifics: 1. Front Matter: Formal Certificate, Dedication, and Abstract pages. 2. Chapter Details: Include technical specs for ESP32, MPU6050, GPS NEO-6M, and SIM800L. 3. Methodology: Detail the AI layer (Machine Learning for crash detection) and Computer Vision layer (YOLO for helmet detection). 4. PDF Integration: A sidebar button linking to a PDF generated via Pandoc/LaTeX'
+
+.specify/scripts/powershell/create-new-feature.ps1 -Number 1 -ShortName 'docusaurus-thesis-site' -FeatureDescription $desc -Json

@@ -1,0 +1,26 @@
+{
+  "id": "front-matter/dedication",
+  "title": "Dedication",
+  "description": "Content for this section is being developed.",
+  "source": "@site/docs/00-front-matter/02-dedication.md",
+  "sourceDirName": "00-front-matter",
+  "slug": "/front-matter/dedication",
+  "permalink": "/docs/front-matter/dedication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Dedication"
+  },
+  "sidebar": "thesisSidebar",
+  "previous": {
+    "title": "Certificate",
+    "permalink": "/docs/front-matter/certificate"
+  },
+  "next": {
+    "title": "Abstract",
+    "permalink": "/docs/front-matter/abstract"
+  }
+}

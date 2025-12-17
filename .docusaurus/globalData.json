@@ -1,0 +1,77 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "front-matter/certificate",
+          "docs": [
+            {
+              "id": "chapter-five/index",
+              "path": "/docs/chapter-five/",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "chapter-four/index",
+              "path": "/docs/chapter-four/",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "chapter-one/index",
+              "path": "/docs/chapter-one/",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "chapter-six/index",
+              "path": "/docs/chapter-six/",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "chapter-three/index",
+              "path": "/docs/chapter-three/",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "chapter-two/index",
+              "path": "/docs/chapter-two/",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "front-matter/abstract",
+              "path": "/docs/front-matter/abstract",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "front-matter/certificate",
+              "path": "/docs/front-matter/certificate",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "front-matter/dedication",
+              "path": "/docs/front-matter/dedication",
+              "sidebar": "thesisSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "thesisSidebar": {
+              "link": {
+                "path": "/docs/front-matter/certificate",
+                "label": "front-matter/certificate"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chapter-three/index",
+  "title": "Chapter Three",
+  "description": "Content for this section is being developed.",
+  "source": "@site/docs/03-chapter-three/index.md",
+  "sourceDirName": "03-chapter-three",
+  "slug": "/chapter-three/",
+  "permalink": "/docs/chapter-three/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter Three"
+  },
+  "sidebar": "thesisSidebar",
+  "previous": {
+    "title": "Chapter Two",
+    "permalink": "/docs/chapter-two/"
+  },
+  "next": {
+    "title": "Chapter Four",
+    "permalink": "/docs/chapter-four/"
+  }
+}

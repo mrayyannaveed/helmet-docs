@@ -1,0 +1,372 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\helmet-docs\\sidebars.js",
+          "contentPath": "D:\\helmet-docs\\docs",
+          "contentPathLocalized": "D:\\helmet-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "chapter-five/index",
+              "title": "Chapter Five",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/05-chapter-five/index.md",
+              "sourceDirName": "05-chapter-five",
+              "slug": "/chapter-five/",
+              "permalink": "/docs/chapter-five/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter Five"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Chapter Four",
+                "permalink": "/docs/chapter-four/"
+              },
+              "next": {
+                "title": "Chapter Six",
+                "permalink": "/docs/chapter-six/"
+              }
+            },
+            {
+              "id": "chapter-four/index",
+              "title": "Chapter Four",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/04-chapter-four/index.md",
+              "sourceDirName": "04-chapter-four",
+              "slug": "/chapter-four/",
+              "permalink": "/docs/chapter-four/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter Four"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Chapter Three",
+                "permalink": "/docs/chapter-three/"
+              },
+              "next": {
+                "title": "Chapter Five",
+                "permalink": "/docs/chapter-five/"
+              }
+            },
+            {
+              "id": "chapter-one/index",
+              "title": "Chapter One",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/01-chapter-one/index.md",
+              "sourceDirName": "01-chapter-one",
+              "slug": "/chapter-one/",
+              "permalink": "/docs/chapter-one/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter One"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Abstract",
+                "permalink": "/docs/front-matter/abstract"
+              },
+              "next": {
+                "title": "Chapter Two",
+                "permalink": "/docs/chapter-two/"
+              }
+            },
+            {
+              "id": "chapter-six/index",
+              "title": "Chapter Six",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/06-chapter-six/index.md",
+              "sourceDirName": "06-chapter-six",
+              "slug": "/chapter-six/",
+              "permalink": "/docs/chapter-six/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter Six"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Chapter Five",
+                "permalink": "/docs/chapter-five/"
+              }
+            },
+            {
+              "id": "chapter-three/index",
+              "title": "Chapter Three",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/03-chapter-three/index.md",
+              "sourceDirName": "03-chapter-three",
+              "slug": "/chapter-three/",
+              "permalink": "/docs/chapter-three/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter Three"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Chapter Two",
+                "permalink": "/docs/chapter-two/"
+              },
+              "next": {
+                "title": "Chapter Four",
+                "permalink": "/docs/chapter-four/"
+              }
+            },
+            {
+              "id": "chapter-two/index",
+              "title": "Chapter Two",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/02-chapter-two/index.md",
+              "sourceDirName": "02-chapter-two",
+              "slug": "/chapter-two/",
+              "permalink": "/docs/chapter-two/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter Two"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Chapter One",
+                "permalink": "/docs/chapter-one/"
+              },
+              "next": {
+                "title": "Chapter Three",
+                "permalink": "/docs/chapter-three/"
+              }
+            },
+            {
+              "id": "front-matter/abstract",
+              "title": "Abstract",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/00-front-matter/03-abstract.md",
+              "sourceDirName": "00-front-matter",
+              "slug": "/front-matter/abstract",
+              "permalink": "/docs/front-matter/abstract",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Abstract"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Dedication",
+                "permalink": "/docs/front-matter/dedication"
+              },
+              "next": {
+                "title": "Chapter One",
+                "permalink": "/docs/chapter-one/"
+              }
+            },
+            {
+              "id": "front-matter/certificate",
+              "title": "Certificate",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/00-front-matter/01-certificate.md",
+              "sourceDirName": "00-front-matter",
+              "slug": "/front-matter/certificate",
+              "permalink": "/docs/front-matter/certificate",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Certificate"
+              },
+              "sidebar": "thesisSidebar",
+              "next": {
+                "title": "Dedication",
+                "permalink": "/docs/front-matter/dedication"
+              }
+            },
+            {
+              "id": "front-matter/dedication",
+              "title": "Dedication",
+              "description": "Content for this section is being developed.",
+              "source": "@site/docs/00-front-matter/02-dedication.md",
+              "sourceDirName": "00-front-matter",
+              "slug": "/front-matter/dedication",
+              "permalink": "/docs/front-matter/dedication",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Dedication"
+              },
+              "sidebar": "thesisSidebar",
+              "previous": {
+                "title": "Certificate",
+                "permalink": "/docs/front-matter/certificate"
+              },
+              "next": {
+                "title": "Abstract",
+                "permalink": "/docs/front-matter/abstract"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Hello Docusaurus",
+              "description": "This is the introduction to your Docusaurus site.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "thesisSidebar": [
+              {
+                "type": "category",
+                "label": "Front Matter",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "front-matter/certificate"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "front-matter/dedication"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "front-matter/abstract"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 1",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-one/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 2",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-two/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 3",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-three/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 4",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-four/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 5",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-five/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Chapter 6",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-six/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

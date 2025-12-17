@@ -1,0 +1,25 @@
+{
+  "id": "chapter-two/index",
+  "title": "Chapter Two",
+  "description": "Content for this section is being developed.",
+  "source": "@site/docs/02-chapter-two/index.md",
+  "sourceDirName": "02-chapter-two",
+  "slug": "/chapter-two/",
+  "permalink": "/docs/chapter-two/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter Two"
+  },
+  "sidebar": "thesisSidebar",
+  "previous": {
+    "title": "Chapter One",
+    "permalink": "/docs/chapter-one/"
+  },
+  "next": {
+    "title": "Chapter Three",
+    "permalink": "/docs/chapter-three/"
+  }
+}

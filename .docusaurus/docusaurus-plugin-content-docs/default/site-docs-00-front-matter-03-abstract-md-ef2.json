@@ -1,0 +1,26 @@
+{
+  "id": "front-matter/abstract",
+  "title": "Abstract",
+  "description": "Content for this section is being developed.",
+  "source": "@site/docs/00-front-matter/03-abstract.md",
+  "sourceDirName": "00-front-matter",
+  "slug": "/front-matter/abstract",
+  "permalink": "/docs/front-matter/abstract",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Abstract"
+  },
+  "sidebar": "thesisSidebar",
+  "previous": {
+    "title": "Dedication",
+    "permalink": "/docs/front-matter/dedication"
+  },
+  "next": {
+    "title": "Chapter One",
+    "permalink": "/docs/chapter-one/"
+  }
+}
