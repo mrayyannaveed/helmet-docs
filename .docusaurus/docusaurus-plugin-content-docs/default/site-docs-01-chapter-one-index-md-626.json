@@ -1,7 +1,7 @@
 {
   "id": "chapter-one/index",
   "title": "Chapter One",
-  "description": "Content for this section is being developed.",
+  "description": "1.1 Introduction to Road Safety and Accident Detection Challenges",
   "source": "@site/docs/01-chapter-one/index.md",
   "sourceDirName": "01-chapter-one",
   "slug": "/chapter-one/",

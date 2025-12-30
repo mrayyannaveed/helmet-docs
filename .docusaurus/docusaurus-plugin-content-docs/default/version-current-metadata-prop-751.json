@@ -134,37 +134,37 @@
     "chapter-five/index": {
       "id": "chapter-five/index",
       "title": "Chapter Five",
-      "description": "Content for this section is being developed.",
+      "description": "5.1 Overview of Testing Strategy and Evaluation Methodology",
       "sidebar": "thesisSidebar"
     },
     "chapter-four/index": {
       "id": "chapter-four/index",
       "title": "Chapter Four",
-      "description": "Content for this section is being developed.",
+      "description": "4.1 Overall System Design Overview",
       "sidebar": "thesisSidebar"
     },
     "chapter-one/index": {
       "id": "chapter-one/index",
       "title": "Chapter One",
-      "description": "Content for this section is being developed.",
+      "description": "1.1 Introduction to Road Safety and Accident Detection Challenges",
       "sidebar": "thesisSidebar"
     },
     "chapter-six/index": {
       "id": "chapter-six/index",
       "title": "Chapter Six",
-      "description": "Content for this section is being developed.",
+      "description": "6.1 Overall Project Summary and Objectives Review",
       "sidebar": "thesisSidebar"
     },
     "chapter-three/index": {
       "id": "chapter-three/index",
       "title": "Chapter Three",
-      "description": "Content for this section is being developed.",
+      "description": "3.1 Overview of the Proposed System Methodology",
       "sidebar": "thesisSidebar"
     },
     "chapter-two/index": {
       "id": "chapter-two/index",
       "title": "Chapter Two",
-      "description": "Content for this section is being developed.",
+      "description": "2.1 Background and Evolution of Smart Helmet and Rider Safety Systems",
       "sidebar": "thesisSidebar"
     },
     "front-matter/abstract": {

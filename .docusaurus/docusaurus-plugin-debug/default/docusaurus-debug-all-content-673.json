@@ -13,14 +13,14 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\helmet-docs\\sidebars.js",
-          "contentPath": "D:\\helmet-docs\\docs",
-          "contentPathLocalized": "D:\\helmet-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "F:\\Programs\\nocode_dev\\helmet-docs\\sidebars.js",
+          "contentPath": "F:\\Programs\\nocode_dev\\helmet-docs\\docs",
+          "contentPathLocalized": "F:\\Programs\\nocode_dev\\helmet-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "chapter-five/index",
               "title": "Chapter Five",
-              "description": "Content for this section is being developed.",
+              "description": "5.1 Overview of Testing Strategy and Evaluation Methodology",
               "source": "@site/docs/05-chapter-five/index.md",
               "sourceDirName": "05-chapter-five",
               "slug": "/chapter-five/",
@@ -45,7 +45,7 @@
             {
               "id": "chapter-four/index",
               "title": "Chapter Four",
-              "description": "Content for this section is being developed.",
+              "description": "4.1 Overall System Design Overview",
               "source": "@site/docs/04-chapter-four/index.md",
               "sourceDirName": "04-chapter-four",
               "slug": "/chapter-four/",
@@ -70,7 +70,7 @@
             {
               "id": "chapter-one/index",
               "title": "Chapter One",
-              "description": "Content for this section is being developed.",
+              "description": "1.1 Introduction to Road Safety and Accident Detection Challenges",
               "source": "@site/docs/01-chapter-one/index.md",
               "sourceDirName": "01-chapter-one",
               "slug": "/chapter-one/",
@@ -95,7 +95,7 @@
             {
               "id": "chapter-six/index",
               "title": "Chapter Six",
-              "description": "Content for this section is being developed.",
+              "description": "6.1 Overall Project Summary and Objectives Review",
               "source": "@site/docs/06-chapter-six/index.md",
               "sourceDirName": "06-chapter-six",
               "slug": "/chapter-six/",
@@ -116,7 +116,7 @@
             {
               "id": "chapter-three/index",
               "title": "Chapter Three",
-              "description": "Content for this section is being developed.",
+              "description": "3.1 Overview of the Proposed System Methodology",
               "source": "@site/docs/03-chapter-three/index.md",
               "sourceDirName": "03-chapter-three",
               "slug": "/chapter-three/",
@@ -141,7 +141,7 @@
             {
               "id": "chapter-two/index",
               "title": "Chapter Two",
-              "description": "Content for this section is being developed.",
+              "description": "2.1 Background and Evolution of Smart Helmet and Rider Safety Systems",
               "source": "@site/docs/02-chapter-two/index.md",
               "sourceDirName": "02-chapter-two",
               "slug": "/chapter-two/",

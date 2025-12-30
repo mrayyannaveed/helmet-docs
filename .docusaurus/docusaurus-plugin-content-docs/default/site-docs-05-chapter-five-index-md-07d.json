@@ -1,7 +1,7 @@
 {
   "id": "chapter-five/index",
   "title": "Chapter Five",
-  "description": "Content for this section is being developed.",
+  "description": "5.1 Overview of Testing Strategy and Evaluation Methodology",
   "source": "@site/docs/05-chapter-five/index.md",
   "sourceDirName": "05-chapter-five",
   "slug": "/chapter-five/",

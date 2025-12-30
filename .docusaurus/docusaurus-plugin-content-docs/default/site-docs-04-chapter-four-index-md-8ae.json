@@ -1,7 +1,7 @@
 {
   "id": "chapter-four/index",
   "title": "Chapter Four",
-  "description": "Content for this section is being developed.",
+  "description": "4.1 Overall System Design Overview",
   "source": "@site/docs/04-chapter-four/index.md",
   "sourceDirName": "04-chapter-four",
   "slug": "/chapter-four/",
